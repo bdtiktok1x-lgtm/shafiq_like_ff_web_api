@@ -1,0 +1,8 @@
+flask
+aiohttp
+pycryptodome
+protobuf
+apscheduler
+requests
+urllib3
+pip install -r requirements.txt
